@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY sites-available /etc/nginx/sites-available
+COPY sites-available /etc/nginx/sites-enabled
